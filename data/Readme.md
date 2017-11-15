@@ -1,3 +1,4 @@
+# TODO:
 You should have:
 1. mscoco/images/train2014
 2. mscoco/images/val2014
